@@ -144,6 +144,7 @@ gong
 gott
 grab
 gras
+groß
 grün
 hahn
 hals
@@ -370,6 +371,7 @@ china
 chips
 clown
 comic
+couch
 creme
 crocs
 curry
@@ -428,6 +430,7 @@ glanz
 glass
 glück
 goofy
+gouda
 grill
 gully
 gummi
@@ -497,6 +500,7 @@ krank
 kranz
 krebs
 kreis
+krone
 krähe
 kröte
 kunde
@@ -689,6 +693,7 @@ virus
 vodka
 vogel
 w-lan
+waage
 wachs
 waffe
 waist
@@ -767,6 +772,7 @@ bäcker
 böller
 bürste
 chrome
+corona
 cousin
 cowboy
 cyborg
@@ -845,6 +851,7 @@ globus
 glocke
 glühen
 goblin
+gondel
 google
 graben
 grafik
@@ -976,6 +983,7 @@ obelix
 orange
 ordner
 ostern
+ostsee
 palast
 panzer
 papaya
@@ -1093,6 +1101,7 @@ teufel
 tiegel
 tippen
 tomate
+tundra
 tunnel
 turban
 tweety
@@ -1240,6 +1249,7 @@ gandalf
 garnele
 gazelle
 gebäude
+gedicht
 geologe
 gesicht
 getränk
@@ -1500,6 +1510,7 @@ albatros
 albtraum
 allergie
 alufolie
+among us
 anakonda
 anfänger
 anführer
@@ -1792,6 +1803,7 @@ tropisch
 truthahn
 turmalin
 umkehren
+veilchen
 verletzt
 verrückt
 versagen
@@ -1911,6 +1923,7 @@ erbrechen
 erfindung
 erfrieren
 erkältung
+esspapier
 evolution
 excalibur
 explosion
@@ -2021,6 +2034,7 @@ mona lisa
 monobraue
 muttermal
 mülleimer
+müllwagen
 nachricht
 nachtclub
 nachthemd
@@ -2424,6 +2438,7 @@ zündschnur
 abflussrohr
 absperrband
 achselhöhle
+ameisenigel
 anglerfisch
 angry birds
 apfelkuchen
@@ -2480,6 +2495,7 @@ hausmeister
 heckspoiler
 hello kitty
 heuschrecke
+hexenschuss
 hosentasche
 hängebrücke
 jackie chan
@@ -2508,6 +2524,7 @@ lippenstift
 litfaßsäule
 luftschloss
 marienkäfer
+marschieren
 marshmallow
 maskottchen
 matrjoschka
@@ -2550,6 +2567,7 @@ schamesröte
 schlafanzug
 schlagsahne
 schneebesen
+schneekugel
 schneesturm
 schnorcheln
 schnurrbart
@@ -2806,6 +2824,7 @@ rasensprenger
 reinkarnation
 rettungsweste
 ringelschwanz
+rocket league
 roter teppich
 schaltknüppel
 scharfschütze
@@ -2858,6 +2877,7 @@ heizungskessel
 herr der ringe
 höhlenforscher
 irokesenfrisur
+kaffeemaschine
 kerzenleuchter
 kim kardashian
 kissenschlacht
