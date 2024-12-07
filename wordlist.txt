@@ -637,6 +637,7 @@ seite
 shrek
 skull
 skype
+smart
 sonic
 sonne
 speck
@@ -879,6 +880,7 @@ hummer
 hunger
 hälfte
 hüpfen
+idefix
 indien
 insekt
 iphone
@@ -1605,6 +1607,7 @@ gewitter
 goldtopf
 graffiti
 groschen
+grönland
 halbmond
 handtuch
 herkules
@@ -1777,6 +1780,7 @@ sombrero
 songtext
 speichel
 splatoon
+splitter
 sprecher
 stampfen
 staudamm
@@ -2177,6 +2181,7 @@ apokalypse
 archäologe
 aristokrat
 armbanduhr
+armdrücken
 arztkoffer
 atmosphäre
 augenbinde
