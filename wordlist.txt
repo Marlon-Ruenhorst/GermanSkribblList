@@ -68,6 +68,7 @@ atem
 atom
 audi
 auge
+auto
 baby
 ball
 band
@@ -481,6 +482,7 @@ kegel
 kehle
 kerze
 kette
+keule
 kirby
 kiste
 klaue
@@ -562,6 +564,7 @@ natur
 nebel
 niere
 ninja
+nitro
 nonne
 notch
 nudel
@@ -1100,6 +1103,7 @@ teller
 tennis
 tetris
 teufel
+thanos
 tiegel
 tippen
 tomate
@@ -1229,6 +1233,7 @@ fenster
 ferrari
 ferrero
 festung
+firefox
 fischer
 flasche
 fleisch
@@ -1278,6 +1283,7 @@ jupiter
 kapitän
 karaoke
 karotte
+karpfen
 katalog
 kellner
 kendama
@@ -1419,6 +1425,7 @@ seetang
 seewolf
 sekunde
 shampoo
+sixpack
 skelett
 skilift
 skyline
@@ -1564,6 +1571,7 @@ dampflok
 deadpool
 detektiv
 diagramm
+dickkopf
 dienstag
 dirigent
 diskette
@@ -2030,6 +2038,7 @@ massieren
 mcdonalds
 mikroskop
 milchmann
+milky way
 minecraft
 mischpult
 mistgabel
@@ -2057,9 +2066,11 @@ palm tree
 pantomime
 paparazzi
 parkplatz
+pendeluhr
 peppa pig
 photoshop
 pinocchio
+pizzabote
 plätzchen
 postkarte
 professor
@@ -2622,6 +2633,7 @@ waschlappen
 waschstraße
 weihnachten
 weintrauben
+weißes haus
 wiederholen
 wildschwein
 wirbelsäule
@@ -2758,6 +2770,7 @@ velociraptor
 verschwinden
 versicherung
 vollkornbrot
+wassermelone
 wasserpfeife
 wetterfrosch
 wissenschaft
@@ -2883,6 +2896,7 @@ herr der ringe
 höhlenforscher
 irokesenfrisur
 kaffeemaschine
+kartoffelsuppe
 kerzenleuchter
 kim kardashian
 kissenschlacht
