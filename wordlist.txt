@@ -4,6 +4,7 @@ Erde
 heiß
 Herz
 Hulk
+Keks
 Korb
 Mond
 Netz
@@ -15,11 +16,14 @@ Blitz
 Chaos
 Duell
 Jacht
+Kakao
 Leine
 Mixer
 Nacht
+Niere
 Waage
 Zelle
+Domino
 fallen
 Gewehr
 Jodeln
@@ -29,18 +33,23 @@ Muffin
 Pfanne
 Pfütze
 Sattel
+Strauß
 Türkei
+Westen
 Camping
 Diamant
+Erdkern
 Freitag
 Kompass
 Lachgas
 Maibaum
 Monokel
+Parkuhr
 riechen
 Windrad
 Detektiv
 flüstern
+Godzilla
 Halbmond
 Halsband
 Himbeere
@@ -50,8 +59,10 @@ Olivenöl
 Portrait
 Schaufel
 Schlauch
+Teekanne
 angreifen
 Bauernhof
+behindert
 Kopfhörer
 Spielzeug
 studieren
@@ -60,16 +71,21 @@ versöhnen
 Zeitbombe
 Besenstiel
 Entensuppe
+Goldnugget
 Hundehütte
 jonglieren
 Mikrowelle
 Pu der Bär
 Sandkasten
 Stonehenge
+Augenklappe
+Nasenspitze
 Nussknacker
 Punktestand
+Renaissance
 schwindelig
 Skispringen
+vollständig
 Aschenbecher
 Donald Trump
 Inlineskates
@@ -78,9 +94,11 @@ magersüchtig
 Strickleiter
 Leuchtreklame
 Segelflugzeug
+Space Shuttle
 Wilder Westen
 Wunschbrunnen
 untergewichtig
+Adventskalender
 Getränkeautomat
 Maschinengewehr
 Leonardo DiCaprio
